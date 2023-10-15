@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/mac/Desktop/FilterApp/OpenCv/.cxx/Debug/126a245w/arm64-v8a'
+ninja: no work to do.

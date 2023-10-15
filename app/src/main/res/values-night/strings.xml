@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_image_source">Camera</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="adjust_image">Adjust Image</string>
+    <string name="greyscale">GreyScale</string>
+    <string name="greyscale_option_image">greyscale_option_image</string>
+    <string name="save_image">save_image</string>
+    <string name="adjust_image_icon">adjust_image_icon</string>
+    <string name="share_icon">share_icon</string>
+    <string name="preview_imageview">preview_imageview</string>
+    <string name="saturation_option_image">saturation_option_image</string>
+    <string name="enhance_saturation">Saturation</string>
+    <string name="rgb">RGB</string>
+    <string name="error_msg">Something went wrong while saving image!</string>
+    <string name="adjust_contrast">Adjust Contrast</string>
+    <string name="adjust_blur">Adjust Blur</string>
+    <string name="adjust_brightness">Adjust Brightness</string>
+    <string name="close_btn">close_btn</string>
+    <string name="ok_btn">ok_btn</string>
+</resources>
